@@ -6,24 +6,25 @@ It might not be the best, but i am new at javascript. I am still learning.
 * MAKE SURE TO GIVE YOURSELF THE TICKETS ROLE, OR YOU CANT USE THE COMMANDS
 
 
---------------------
+# Requirements
 
- Requirements:
 
-# you need to [install node] and npm
+
+## you need to [install node] and npm
+
 ```
  discord.js ( npm install discord.js )
 ```
 
+# Commands:
 
---------------------
 
-> Commands:
 
 - help
 - open (user id)
 - close
 - setup 
+
 
 # Setup Instructions
 
