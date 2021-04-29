@@ -3,6 +3,8 @@
 Simple ModMail bot written in Javascript.
 It might not be the best, but i am new at javascript. I am still learning.
 
+If you have any problems, dm ```keirahela#4288``` on discord.
+
 * MAKE SURE TO GIVE YOURSELF THE TICKETS ROLE, OR YOU CANT USE THE COMMANDS
 
 
