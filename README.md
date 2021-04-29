@@ -6,16 +6,6 @@ It might not be the best, but i am new at javascript. I am still learning.
 * MAKE SURE TO GIVE YOURSELF THE TICKETS ROLE, OR YOU CANT USE THE COMMANDS
 
 
-# Requirements
-
-
-
-## you need to [install node] and npm
-
-```
- discord.js ( npm install discord.js )
-```
-
 # Commands:
 
 
@@ -26,19 +16,24 @@ It might not be the best, but i am new at javascript. I am still learning.
 - setup 
 
 
-# Setup Instructions
+# Installation
 
 
 
-1. Change the bot token in the ```config.json``` file.
+1. [Clone this repo]
 
-2. Change the ServerID in the ```config.json``` file. ( Right click your server icon, and click "Copy ID" )
+2. Make sure to [install node] and npm
 
-3. Change the prefix in the ```config.json``` file.
+3. Make sure to install discord.js with ```npm install discord.js```
 
-4. On your server, run the ```setup``` command. 
+4. Change the ServerID, and the prefix in the ```config.json``` file. ( Right click your server icon, and click "Copy ID" for the serverID )
 
-5. You are done!
+4. Change the bot's token in the ```config.json``` file.
+
+5. On your server, run the ```setup``` command. 
+
+6. You are done!
 
 
 [install node]: https://nodejs.org/en/
+[Clone this repo]: https://github.com/keirahela/ModMail-Bot/archive/refs/heads/main.zip
