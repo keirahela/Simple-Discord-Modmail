@@ -6,7 +6,7 @@ It might not be the best, but i am new at javascript. I am still learning.
 * MAKE SURE TO GIVE YOURSELF THE TICKETS ROLE, OR YOU CANT USE THE COMMANDS
 
 
-# Commands:
+# Features:
 
 
 
