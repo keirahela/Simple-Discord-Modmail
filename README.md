@@ -36,7 +36,7 @@ It might not be the best, but i am new at javascript. I am still learning.
 
 3. Change the prefix in the ```config.json``` file.
 
-4. On your server, run the ```-setup``` command. 
+4. On your server, run the ```setup``` command. 
 
 5. You are done!
 
