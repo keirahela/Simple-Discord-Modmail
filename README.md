@@ -24,7 +24,7 @@ It might not be the best, but i am new at javascript. I am still learning.
 - setup 
 
 # Setup Instructions
---------------------
+
 
 1. Change the bot token in the ```config.json```
 
