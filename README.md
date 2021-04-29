@@ -23,8 +23,8 @@ It might not be the best, but i am new at javascript. I am still learning.
 - close
 - setup 
 
+# Setup Instructions
 --------------------
-Setup instructions:
 
 1. Change the bot token in the ```config.json```
 
