@@ -10,7 +10,7 @@ It might not be the best, but i am new at javascript. I am still learning.
 
  Requirements:
 
-# you need to install [node] and npm
+# you need to [install node] and npm
 ```
  discord.js ( npm install discord.js )
 ```
@@ -40,4 +40,4 @@ It might not be the best, but i am new at javascript. I am still learning.
 5. You are done!
 
 
-[node]: https://nodejs.org/en/
+[install node]: https://nodejs.org/en/
