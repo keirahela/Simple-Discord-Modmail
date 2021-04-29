@@ -1,0 +1,5 @@
+{
+    "token": "YOUR_SECRET_TOKEN",
+    "prefix": "YOUR_PREFIX",
+    "ServerID": "YOUR_SERVER_ID"
+}  
