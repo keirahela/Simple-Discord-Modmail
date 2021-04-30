@@ -30,7 +30,7 @@ If you have any problems, dm ```keirahela#4288``` on discord.
 
 4. Change the ServerID, and the prefix in the ```config.json``` file. ( Right click your server icon, and click "Copy ID" for the serverID )
 
-4. Change the bot's token in the ```config.json``` file.
+4. Change the bot's token in the ```config.json``` file to yours.
 
 5. On your server, run the ```setup``` command. 
 
