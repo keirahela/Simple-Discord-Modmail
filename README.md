@@ -18,7 +18,7 @@ If you have any problems, dm ```keirahela#4288``` on discord.
 - setup 
 
 
-# Installation
+# How to use this
 
 
 
