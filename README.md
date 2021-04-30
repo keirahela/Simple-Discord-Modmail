@@ -1,7 +1,7 @@
 # Simple ModMail-Bot
 
 Simple ModMail bot written in Javascript.
-It might not be the best, but i am new at javascript. I am still learning.
+I am still learning javascript, i am pretty bad at it tho.
 
 If you have any problems, dm ```keirahela#4288``` on discord.
 
