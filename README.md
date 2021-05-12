@@ -3,6 +3,8 @@
 Simple ModMail bot written in Javascript.
 I am still learning javascript, i am pretty bad at it tho.
 
+##DONT USE THIS, INSTEAD USE [THIS]
+
 If you have any problems, dm ```keirahela#4288``` on discord.
 
 * MAKE SURE TO GIVE YOURSELF THE TICKETS ROLE, OR YOU CANT USE THE COMMANDS
@@ -39,3 +41,4 @@ If you have any problems, dm ```keirahela#4288``` on discord.
 
 [install node]: https://nodejs.org/en/
 [Clone this repo]: https://github.com/keirahela/ModMail-Bot/archive/refs/heads/main.zip
+[THIS]: https://github.com/keirahela/MemberCount-CM
