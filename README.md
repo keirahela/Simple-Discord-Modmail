@@ -3,7 +3,7 @@
 Simple ModMail bot written in Javascript.
 I am still learning javascript, i am pretty bad at it tho.
 
-##DONT USE THIS, INSTEAD USE [THIS]
+## DONT USE THIS, INSTEAD USE [THIS]
 
 If you have any problems, dm ```keirahela#4288``` on discord.
 
